@@ -1,0 +1,2 @@
+# No external dependencies are required for this project.
+# The script runs on standard Python 3.14 libraries.
