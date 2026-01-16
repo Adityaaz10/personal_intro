@@ -33,9 +33,9 @@ Below is a screenshot demonstrating the program functionality and sample output:
 ## Testing Evidence
 The program was tested with the following test case:
 - **Input Name:** Alex
-- **Input Age:** 21
-- **Input Hobby:** Coding
-- **Result:** The program correctly printed "🎉 Welcome Alex! 🎉" and "You are 21 years old and love Coding." without errors.
+- **Input Age:** 20
+- **Input Hobby:** Football
+- **Result:** The program correctly printed "🎉 Welcome Alex! 🎉" and "You are 20 years old and love Football." without errors.
 
 ## What I Learned
 Through this project, I learned how to:
